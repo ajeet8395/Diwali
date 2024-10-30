@@ -1,0 +1,655 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does Diwali symbolize?",
+        "options": [
+          "Victory of light over darkness",
+          "Beginning of winter",
+          "Harvest festival",
+          "New Year celebration"
+        ],
+        "correct": 0,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 2,
+        "question": "In which month is Diwali celebrated?",
+        "options": [
+          "January",
+          "March",
+          "October",
+          "November"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 3,
+        "question": "Which Hindu god is worshipped during Diwali?",
+        "options": [
+          "Vishnu",
+          "Shiva",
+          "Ganesha",
+          "Lakshmi"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 4,
+        "question": "What is the significance of lighting diyas during Diwali?",
+        "options": [
+          "To invite guests",
+          "To ward off evil spirits",
+          "To represent prosperity",
+          "To honor ancestors"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 5,
+        "question": "What is the name of the festival that marks the end of the year in the Hindu calendar?",
+        "options": [
+          "Holi",
+          "Makar Sankranti",
+          "Diwali",
+          "Navratri"
+        ],
+        "correct": 2,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 6,
+        "question": "Which demon king is associated with the story of Diwali?",
+        "options": [
+          "Ravana",
+          "Kansa",
+          "Mahishasura",
+          "Hiranyakashipu"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 7,
+        "question": "What is the traditional sweet made during Diwali?",
+        "options": [
+          "Kheer",
+          "Ladoo",
+          "Jalebi",
+          "Samosa"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 8,
+        "question": "In which part of India is Diwali also known as Deepavali?",
+        "options": [
+          "North India",
+          "South India",
+          "East India",
+          "West India"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 9,
+        "question": "What does 'Rangoli' represent during Diwali?",
+        "options": [
+          "Decoration of the house",
+          "A type of sweet",
+          "The goddess of wealth",
+          "A form of worship"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 10,
+        "question": "Which flower is commonly used for decoration during Diwali?",
+        "options": [
+          "Rose",
+          "Marigold",
+          "Lily",
+          "Jasmine"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 11,
+        "question": "What is 'Govardhan Puja' celebrated for during Diwali?",
+        "options": [
+          "Worship of the moon",
+          "Worship of Lord Krishna",
+          "Worship of Lord Ganesha",
+          "Worship of Lord Shiva"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 12,
+        "question": "Which day is celebrated as 'Bhai Dooj' during Diwali?",
+        "options": [
+          "The first day",
+          "The second day",
+          "The third day",
+          "The last day"
+        ],
+        "correct": 2,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 13,
+        "question": "What is the significance of 'Chopda Pujan' during Diwali?",
+        "options": [
+          "Worship of business accounts",
+          "Worship of vehicles",
+          "Worship of home",
+          "Worship of crops"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 14,
+        "question": "What type of firecrackers are traditionally used during Diwali?",
+        "options": [
+          "Rockets",
+          "Anars",
+          "Chakris",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 15,
+        "question": "Which state in India has the largest Diwali celebration?",
+        "options": [
+          "Maharashtra",
+          "West Bengal",
+          "Punjab",
+          "Uttar Pradesh"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 16,
+        "question": "What is the main reason for celebrating Diwali?",
+        "options": [
+          "Harvest festival",
+          "Victory of good over evil",
+          "New Year celebration",
+          "Seasonal change"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 17,
+        "question": "Which ancient Indian text describes the story of Diwali?",
+        "options": [
+          "Ramayana",
+          "Mahabharata",
+          "Puranas",
+          "Vedas"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 18,
+        "question": "What do people often exchange during Diwali?",
+        "options": [
+          "Flowers",
+          "Clothes",
+          "Sweets",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 19,
+        "question": "Which item is used to make Rangoli?",
+        "options": [
+          "Colored powders",
+          "Rice",
+          "Flowers",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 20,
+        "question": "What does the word 'Diwali' mean?",
+        "options": [
+          "Row of lights",
+          "Festival of flowers",
+          "Victory of good",
+          "Celebration of harvest"
+        ],
+        "correct": 0,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 21,
+        "question": "Which type of lamp is traditionally used during Diwali?",
+        "options": [
+          "Kerosene lamp",
+          "Electric bulb",
+          "Earthen diya",
+          "LED lamp"
+        ],
+        "correct": 2,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 22,
+        "question": "What is 'Lakshmi Puja'?",
+        "options": [
+          "Worship of wealth",
+          "Worship of health",
+          "Worship of knowledge",
+          "Worship of the moon"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 23,
+        "question": "In which region is the 'Naraka Chaturdashi' celebrated?",
+        "options": [
+          "North India",
+          "South India",
+          "East India",
+          "West India"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 24,
+        "question": "Which is a common Diwali greeting?",
+        "options": [
+          "Shubh Diwali",
+          "Happy Holi",
+          "Namaste",
+          "Merry Christmas"
+        ],
+        "correct": 0,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 25,
+        "question": "What are 'Diyas' made of?",
+        "options": [
+          "Plastic",
+          "Metal",
+          "Earthen clay",
+          "Glass"
+        ],
+        "correct": 2,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 26,
+        "question": "Which animal is often associated with Goddess Lakshmi?",
+        "options": [
+          "Elephant",
+          "Lion",
+          "Owl",
+          "Cow"
+        ],
+        "correct": 2,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 27,
+        "question": "What is the significance of wearing new clothes during Diwali?",
+        "options": [
+          "To impress others",
+          "To symbolize a fresh start",
+          "To follow tradition",
+          "To show wealth"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 28,
+        "question": "What is the name of the festival celebrated in honor of Lord Rama's return to Ayodhya?",
+        "options": [
+          "Diwali",
+          "Holi",
+          "Dussehra",
+          "Makar Sankranti"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 29,
+        "question": "Which city is famous for its Diwali celebrations in India?",
+        "options": [
+          "Varanasi",
+          "Jaipur",
+          "Mumbai",
+          "Bangalore"
+        ],
+        "correct": 2,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 30,
+        "question": "What is 'Sweets' often offered to guests during Diwali?",
+        "options": [
+          "Chips",
+          "Fruits",
+          "Savory snacks",
+          "Traditional sweets"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 31,
+        "question": "What is the first day of Diwali celebrations called?",
+        "options": [
+          "Dhanteras",
+          "Naraka Chaturdashi",
+          "Diwali",
+          "Bhai Dooj"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 32,
+        "question": "Which god is worshipped for new beginnings during Diwali?",
+        "options": [
+          "Saraswati",
+          "Ganesha",
+          "Shiva",
+          "Krishna"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 33,
+        "question": "What do people do on Diwali Eve?",
+        "options": [
+          "Visit temples",
+          "Prepare sweets",
+          "Light diyas",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 34,
+        "question": "Which color is considered auspicious during Diwali?",
+        "options": [
+          "White",
+          "Black",
+          "Red",
+          "Yellow"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 35,
+        "question": "What do people traditionally do during the 'Lakshmi Puja'?",
+        "options": [
+          "Make rangoli",
+          "Light diyas",
+          "Offer prayers",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 36,
+        "question": "What is the purpose of bursting firecrackers during Diwali?",
+        "options": [
+          "To scare away ghosts",
+          "To celebrate",
+          "To mark the end of the year",
+          "To light up the sky"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 37,
+        "question": "What are traditional Diwali decorations made of?",
+        "options": [
+          "Plastic",
+          "Flowers",
+          "Paper",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 38,
+        "question": "Which type of cake is popularly made during Diwali?",
+        "options": [
+          "Fruit cake",
+          "Chocolate cake",
+          "No-bake cake",
+          "None of the above"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 39,
+        "question": "What is the traditional clothing for women during Diwali?",
+        "options": [
+          "Kurta",
+          "Saree",
+          "Pajamas",
+          "Jeans"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 40,
+        "question": "What type of food is served during Diwali?",
+        "options": [
+          "Non-vegetarian",
+          "Vegetarian",
+          "Vegan",
+          "All of the above"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 41,
+        "question": "Which Indian state is known for its unique Diwali rituals?",
+        "options": [
+          "Punjab",
+          "Gujarat",
+          "Kerala",
+          "Goa"
+        ],
+        "correct": 1,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 42,
+        "question": "What is the main purpose of celebrating Diwali?",
+        "options": [
+          "Cultural gathering",
+          "Religious significance",
+          "Community celebration",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 43,
+        "question": "What do families do during Diwali to promote harmony?",
+        "options": [
+          "Give gifts",
+          "Have a feast",
+          "Pray together",
+          "All of the above"
+        ],
+        "correct": 3,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 44,
+        "question": "Which festival is celebrated just before Diwali?",
+        "options": [
+          "Eid",
+          "Holi",
+          "Navratri",
+          "Dussehra"
+        ],
+        "correct": 3,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 45,
+        "question": "Which item is commonly used to perform Aarti during Diwali?",
+        "options": [
+          "Thali",
+          "Puja mandir",
+          "Chakra",
+          "Dhoop"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 46,
+        "question": "What is the importance of 'Kartik month' in relation to Diwali?",
+        "options": [
+          "It's the month of festivals",
+          "It's the month of fasting",
+          "It's the month of harvest",
+          "It's the month of winter"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "history"
+      },
+      {
+        "id": 47,
+        "question": "What traditional drink is often served during Diwali celebrations?",
+        "options": [
+          "Lassi",
+          "Tea",
+          "Coffee",
+          "Fruit punch"
+        ],
+        "correct": 0,
+        "difficulty": "easy",
+        "category": "traditions"
+      },
+      {
+        "id": 48,
+        "question": "What signifies the start of Diwali celebrations?",
+        "options": [
+          "Cleaning the house",
+          "Lighting diyas",
+          "Buying new clothes",
+          "Offering prayers"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      },
+      {
+        "id": 49,
+        "question": "Which festival is known as the 'Festival of Lights'?",
+        "options": [
+          "Eid",
+          "Diwali",
+          "Christmas",
+          "Holi"
+        ],
+        "correct": 1,
+        "difficulty": "easy",
+        "category": "history"
+      },
+      {
+        "id": 50,
+        "question": "Which famous sweet is traditionally made during Diwali in Maharashtra?",
+        "options": [
+          "Anarse",
+          "Mysore Pak",
+          "Gulab Jamun",
+          "Rasgulla"
+        ],
+        "correct": 0,
+        "difficulty": "medium",
+        "category": "traditions"
+      }
+    ]
+  }
+  
