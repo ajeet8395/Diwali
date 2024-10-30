@@ -12,7 +12,7 @@ const CountdownTimer = () => {
             const difference = targetDate - now;
 
             setCountdown({
-                days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+                days: Math.floor(difference / (10000 * 60 * 60 * 24)),
                 hours: Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)),
                 minutes: Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)),
                 seconds : Math.floor((difference % (1000 * 60)) / 1000)
