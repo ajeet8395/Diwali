@@ -11,6 +11,7 @@ const DiwaliApp = () => {
   const [showWelcome, setShowWelcome] = useState(true);
   const [currentView, setCurrentView] = useState('home');
   const [quizCompleted, setQuizCompleted] = useState(false);
+  const [greeting, setGreeting] = useState(false);
   const [quizResults, setQuizResults] = useState(null);
 
   useEffect(() => {
@@ -67,9 +68,9 @@ const DiwaliApp = () => {
           <Trophy className="w-16 h-16 text-yellow-500 mx-auto mb-4" />
           <h3 className="text-3xl mb-4">Quiz Completed!</h3>
           <p className="text-xl mb-6">Your Score: {quizResults.score} out of 10</p>
-          
+
           {quizResults.score >= 5 && <CelebrationEffect />}
-          
+
           <div className="space-y-4">
             <button
               onClick={() => {
@@ -80,7 +81,7 @@ const DiwaliApp = () => {
             >
               Try Again
             </button>
-            
+
             {quizResults.wrongAnswers.length > 0 && (
               <button
                 onClick={() => setCurrentView('wrongAnswers')}
@@ -89,24 +90,34 @@ const DiwaliApp = () => {
                 Review Wrong Answers
               </button>
             )}
-            <button 
-            onClick={() => {
-              setQuizCompleted(false)
-              setCurrentView('home');
-            }}
-            className='hover:underline hover:text-black'>Back</button>
+            <button
+              onClick={() => {
+                setQuizCompleted(false)
+                setCurrentView('home');
+              }}
+              className='hover:underline hover:text-black'>Back</button>
           </div>
         </div>
       )}
 
       {currentView === 'wrongAnswers' && quizResults && (
-        <WrongAnswersReview 
+        <WrongAnswersReview
           wrongAnswers={quizResults.wrongAnswers}
           onBack={() => setCurrentView('results')}
         />
       )}
 
-      {currentView === 'greetings' && <GreetingCardGenerator />}
+      {currentView === 'greetings' && (
+        <div>
+          <GreetingCardGenerator />
+          <button
+            onClick={() => {
+              setGreeting(false)
+              setCurrentView('home');
+            }}
+            className='hover:underline'>Back</button>
+        </div>
+      )}
     </div>
   );
 };

@@ -26,7 +26,7 @@ const CountdownTimer = () => {
 
     return (
         <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-6">Countdown to Diwali End 2025</h2>
+            <h2 className="text-4xl font-bold mb-6">Countdown to Diwali 2025</h2>
             <p className="text-lg mb-4">October 21, 2025</p>
             <div className="flex justify-center gap-8">
                 {Object.entries(countdown).map(([unit, value]) => (
