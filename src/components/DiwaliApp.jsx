@@ -79,7 +79,7 @@ const DiwaliApp = () => {
               }}
               className="bg-yellow-500 hover:bg-yellow-600 text-black px-6 py-3 rounded-full font-bold"
             >
-              Try Again
+              Try Again!
             </button>
 
             {quizResults.wrongAnswers.length > 0 && (
